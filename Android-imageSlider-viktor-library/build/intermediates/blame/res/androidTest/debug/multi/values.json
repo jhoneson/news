@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 2404,
+                    "endColumn": 57,
+                    "endOffset": 2457
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 2404,
+                        "endColumn": 57,
+                        "endOffset": 2457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 2462,
+                    "endColumn": 55,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 2462,
+                        "endColumn": 55,
+                        "endOffset": 2513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 2518,
+                    "endColumn": 43,
+                    "endOffset": 2557
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 2518,
+                        "endColumn": 43,
+                        "endOffset": 2557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 2562,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 3432
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 2562,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 3432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3437,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 4377
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3437,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 4377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4382,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5252
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4382,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 5252
+                    }
+                }
+            }
+        ]
+    }
+]

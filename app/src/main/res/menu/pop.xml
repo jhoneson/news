@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="汽车" android:id="@+id/car"/>
+    <item android:title="段子" android:id="@+id/smile"/>
+    <item android:title="房产" android:id="@+id/house"/>
+    <item android:title="车票" android:id="@+id/ticket">
+        <menu>
+            <item android:title="汽车" android:id="@+id/auto"/>
+            <item android:title="火车" android:id="@+id/train"/>
+            <item android:title="飞机" android:id="@+id/plane"/>
+        </menu>
+    </item>
+</menu>

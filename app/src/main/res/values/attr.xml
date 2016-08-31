@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="app">
+        <attr name="tabIndicatorColor" format="color"/>
+        <attr name="tabSelectedTextColor" format="color"/>
+        <attr name="tabTextColor" format="color"/>
+    </declare-styleable>
+</resources>

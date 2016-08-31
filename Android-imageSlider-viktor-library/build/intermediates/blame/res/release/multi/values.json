@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 2404,
+                    "endColumn": 57,
+                    "endOffset": 2457
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 2462,
+                    "endColumn": 55,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 2518,
+                    "endColumn": 43,
+                    "endOffset": 2557
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 2562,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 3432
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3437,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 4377
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4382,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5252
+                },
+                "from": {
+                    "file": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1920,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 2808
+                    }
+                }
+            }
+        ]
+    }
+]

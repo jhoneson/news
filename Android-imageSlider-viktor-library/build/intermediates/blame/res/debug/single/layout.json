@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "D:\\Android1601\\News2\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\slider_layout.xml"
+    }
+]
